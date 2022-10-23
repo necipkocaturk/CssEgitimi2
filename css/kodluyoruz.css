@@ -1,0 +1,34 @@
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+boxSearch{
+    display: block;
+    text-align: -webkit-center;
+    background-color: rgb(189, 186, 186);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#inputbutton{
+    width:300px ;
+}
+boxOne,boxTwo,boxThree{
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    height: 75px;
+    margin: 2px;
+    padding: 5px;
+}
+
+
+threeBoxes{
+    display: table-row;
+    
+}
+#boxes{
+    display: block;
+    text-align: -webkit-center;
+}
